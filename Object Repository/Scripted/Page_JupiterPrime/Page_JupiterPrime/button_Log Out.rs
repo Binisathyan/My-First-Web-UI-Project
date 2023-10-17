@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log Out</name>
+   <tag></tag>
+   <elementGuidId>b1be4310-0ecc-415b-8f2c-0e7f0fecbe30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='menu-logout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-logout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6dd680f1-0b52-4aa4-a4ec-b4f0c885e1c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu-logout</value>
+      <webElementGuid>10a0dc56-4c28-4e3e-84a8-b01608f340c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>transition duration-50 ease-in-out hover:text-secondary transform hover:-translate-y-1 hover:scale-80 hover:border-secondary border-transparent border-b-2 px-4</value>
+      <webElementGuid>cac9c074-dcde-4886-80ca-6c7783ecacf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out</value>
+      <webElementGuid>9844b222-0e05-4b5b-832d-6bfa134836e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-logout&quot;)</value>
+      <webElementGuid>741ec9d8-8ae7-42a6-bada-d284187374c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='menu-logout']</value>
+      <webElementGuid>7a3eafdf-263f-4c1d-bdc0-2b6cc3a207c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-root']/nav/div/div/div[2]/button</value>
+      <webElementGuid>3978f576-5c40-4e5e-bb80-ca60e1fa2748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::button[2]</value>
+      <webElementGuid>613022dd-69b3-4272-a785-dc0e2adefe4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Out']/parent::*</value>
+      <webElementGuid>c7307e60-f17b-4303-bb42-62eccb46020c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>da441396-462f-4508-8a1e-41d16db647bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'menu-logout' and (text() = 'Log Out' or . = 'Log Out')]</value>
+      <webElementGuid>440f76ff-eb7d-4c05-bfe6-191135674ea8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Start Shopping</name>
+   <tag></tag>
+   <elementGuidId>e6d2b471-c834-49f0-8b70-6fed43ad53bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='start-shopping-button']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#start-shopping-button > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>412203f7-2236-43b9-bc43-a82e3bbf4c92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shop</value>
+      <webElementGuid>fe4ca881-5b71-4dff-a773-aadf67c9720b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Shopping →</value>
+      <webElementGuid>089a6c73-efea-4755-85e6-af9855290ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-shopping-button&quot;)/a[1]</value>
+      <webElementGuid>813b4262-936a-4e42-ad94-b5a1659510e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='start-shopping-button']/a</value>
+      <webElementGuid>5e822451-6296-4f1a-82de-69616e819b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[2]</value>
+      <webElementGuid>f2e435b1-819c-45e3-bd0b-973644e6021e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular Items Right Now!!!'])[1]/preceding::a[1]</value>
+      <webElementGuid>fefaafba-d4b3-4bf3-a42c-b27f2bfcfd40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start Shopping']/parent::*</value>
+      <webElementGuid>675d9e25-1fdf-4385-a3fe-1b95674f3dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/shop')])[2]</value>
+      <webElementGuid>b92a5eac-8f77-46ee-b7bf-87b608f45747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/a</value>
+      <webElementGuid>9238820b-4805-476c-b3ca-1bc7a61938d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shop' and (text() = 'Start Shopping →' or . = 'Start Shopping →')]</value>
+      <webElementGuid>efef00a1-ae2b-48ca-a269-786f5a92624f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

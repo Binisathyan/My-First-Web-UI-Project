@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Cart_slide selected</name>
+   <tag></tag>
+   <elementGuidId>0eb1286f-f172-4200-8da8-5fe84f631201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carousel']/div/div/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.slide.selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3adaf656-5b00-456c-b7c3-71123298ca21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slide selected</value>
+      <webElementGuid>fa3c84b5-2874-46f0-ace9-9a90c7931516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carousel&quot;)/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected&quot;]</value>
+      <webElementGuid>61d183e5-f433-4271-a5df-70a3ea3f44a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carousel']/div/div/div/ul/li[2]</value>
+      <webElementGuid>c0616a24-4be7-4b93-9c2a-15641dc05458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::li[5]</value>
+      <webElementGuid>461906f1-22a3-4d26-aad8-3f3cc8831cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='→'])[1]/preceding::li[4]</value>
+      <webElementGuid>d7cb8e18-849f-4450-8344-32a1a3eb7b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul/li[2]</value>
+      <webElementGuid>8d613edd-916e-4645-867a-10a0320d0e34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

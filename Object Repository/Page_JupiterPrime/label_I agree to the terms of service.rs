@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_I agree to the terms of service</name>
+   <tag></tag>
+   <elementGuidId>09b4d685-5b59-47dd-85c0-760872411f72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-modal-body']/form/div[3]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.inline-flex.flex-row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c9486e60-92b0-4e75-9020-3f4c918d85ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex flex-row</value>
+      <webElementGuid>b9081783-f697-4194-9d41-da500cb5a71b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I agree to the terms of service</value>
+      <webElementGuid>625b2178-0ef4-4157-aa61-98959546ced8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-modal-body&quot;)/form[1]/div[@class=&quot;mt-2 mb-2&quot;]/div[@class=&quot;inline-flex flex-col w-full p-2 text-left&quot;]/label[@class=&quot;inline-flex flex-row&quot;]</value>
+      <webElementGuid>adf5c1a8-a7ae-44da-8b11-e1559bd94427</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-modal-body']/form/div[3]/div/label</value>
+      <webElementGuid>96c49de9-9181-4e14-a2df-1a5654ad8318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::label[1]</value>
+      <webElementGuid>1b886a82-8ad4-4672-a76a-5007f80ccb67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::label[1]</value>
+      <webElementGuid>1a137f82-b4c3-466d-b394-74e0afda3f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::label[1]</value>
+      <webElementGuid>84b883a7-8ec6-4a53-9b34-32a7362a6a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>57614b1b-92b0-4c17-8d9a-6450b5dcb3fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'I agree to the terms of service' or . = 'I agree to the terms of service')]</value>
+      <webElementGuid>696bb016-c632-4ee4-b797-e64c167a1858</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

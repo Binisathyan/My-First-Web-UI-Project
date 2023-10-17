@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 03a Login Jupiterprime - browser not closed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d381985-ed2e-48c3-8261-132c7d3f39f2</testCaseGuid>
+</TestCaseEntity>

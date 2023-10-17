@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Warning This website is only to be used_d48451</name>
+   <tag></tag>
+   <elementGuidId>0294ba20-e44a-4de5-8c87-57a7a9c8dad4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='web-warning']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#web-warning</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1dd0bfb2-e814-489e-bb74-0c29e3a0f6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>web-warning</value>
+      <webElementGuid>f71243f7-8f2b-4ed7-a826-59c541d00c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> bg-gray-100 py-2 text-secondary</value>
+      <webElementGuid>0cf8ce3e-2cd1-4333-877d-f66c1fdbfeef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Warning: This website is only to be used used for training purposes.</value>
+      <webElementGuid>119ca221-ac7e-4a3a-8bd7-3cd0f6ec6ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;web-warning&quot;)</value>
+      <webElementGuid>d563c42c-351a-4286-9cf0-a09a37428e75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='web-warning']</value>
+      <webElementGuid>e698c821-d723-4a6c-9a00-6ed5944a6770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-root']/div</value>
+      <webElementGuid>aabf00ba-dd2b-4157-8ee7-2e00de8251e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[2]</value>
+      <webElementGuid>bbd37044-f914-46c0-8bf8-c773ea80c3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/preceding::div[2]</value>
+      <webElementGuid>64f00f61-a907-4c8b-8ea4-8612c253bdf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Warning: This website is only to be used used for training purposes.']/parent::*</value>
+      <webElementGuid>8081c48e-21b5-4e75-b692-091637809be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>536dc515-af28-44a6-847d-1fa292be0f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'web-warning' and (text() = 'Warning: This website is only to be used used for training purposes.' or . = 'Warning: This website is only to be used used for training purposes.')]</value>
+      <webElementGuid>72a4c100-f404-4147-b274-f7c78be728f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
